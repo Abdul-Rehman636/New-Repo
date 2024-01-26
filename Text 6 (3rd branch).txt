@@ -1,0 +1,1 @@
+This is a simple text of text 6 which is in branch master3
